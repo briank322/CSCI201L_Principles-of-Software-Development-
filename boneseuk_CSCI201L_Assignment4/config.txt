@@ -1,0 +1,6 @@
+ServerHostname=localhost
+ServerPort=6789
+DBConnection=jdbc:mysql://google/hangman?cloudSqlInstance=airy-highlander-255321:us-central1:lab8&socketFactory=com.google.cloud.sql.mysql.SocketFactory&useSSL=false&user=
+DBUsername=boneseuk
+DBPassword=bona0324
+SecretWordFile=hangmanwords.txt
