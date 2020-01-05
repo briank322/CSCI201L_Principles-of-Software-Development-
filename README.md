@@ -2,7 +2,7 @@
 Repository for CSCI 201L Course work. Ex) Java, HTML, CSS, Full-Stack Web development projects
 
 <br />
-# Assignment 1 covers the contact book Application(Java)
+# Assignment 1 covers the contact book Application (Java)
 <br/>
 •	Creating a program that populates a contact book and allows the user to search and modify it.<br />
 •	Parsing a file containing a set of contacts and their information.<br />
