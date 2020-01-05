@@ -8,7 +8,7 @@ Repository for CSCI 201L Course work. Ex) Java, HTML, CSS, Full-Stack Web develo
 •	Parsing a file containing a set of contacts and their information.<br />
 •	To ensure accurate parsing, you will then provide a command line interface to allow a user to query and modify the parsed data.<br />
 <br />
-# Assignment 2 & 3 covers the Book Website.<br />
+# Assignments 2 & 3 cover the Book Website.<br />
 •	Created a website in HTML and JavaScript with an interaction requesting data from Google Books API. Showing search results by parsing JSON files. Unsuccessful query shows appropriate error message. <br />
 •	User management system handles the registration and login of website’s users (back-end). This keeps track, authenticates and retrieves user set preferences by using Google Cloud SQL.<br />
 •	Used AJAX to add/remove user’s favorite books. Favorite button toggled upon clicking (no page reloads).
